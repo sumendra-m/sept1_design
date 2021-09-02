@@ -1,5 +1,5 @@
 # sept1_design
 
-![screencapture-file-C-Users-sumendra-manandhar-Downloads-civil-bank-knowyourbank-index-html-2021-09-01-10_36_00](https://user-images.githubusercontent.com/34668297/131613837-2f0b78b6-c4e9-4932-8b87-eabaf1c705f4.png)
+<img width="960" alt="screencapture-file-C-Users-sumendra-manandhar-Downloads-civil-bank-knowyourbank-index-html-2021-09-02-14_49_36" src="https://user-images.githubusercontent.com/34668297/131825880-47cd616f-05c2-48e3-9eb6-79d4dc4a631b.png">
 
 
